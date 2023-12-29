@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on PaperMod</title>
+    <link>https://cn-zhankouiblog-vopvxistgr.cn-zhangjiakou.sae.run/series/</link>
+    <description>Recent content in Series on PaperMod</description>
+    <image>
+      <title>PaperMod</title>
+      <url>https://cn-zhankouiblog-vopvxistgr.cn-zhangjiakou.sae.run/images/papermod-cover.png</url>
+      <link>https://cn-zhankouiblog-vopvxistgr.cn-zhangjiakou.sae.run/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://cn-zhankouiblog-vopvxistgr.cn-zhangjiakou.sae.run/series/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

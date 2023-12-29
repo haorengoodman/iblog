@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>xx on PaperMod</title>
+    <link>https://cn-zhankouiblog-vopvxistgr.cn-zhangjiakou.sae.run/tags/xx/</link>
+    <description>Recent content in xx on PaperMod</description>
+    <image>
+      <title>PaperMod</title>
+      <url>https://cn-zhankouiblog-vopvxistgr.cn-zhangjiakou.sae.run/images/papermod-cover.png</url>
+      <link>https://cn-zhankouiblog-vopvxistgr.cn-zhangjiakou.sae.run/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
+    <atom:link href="https://cn-zhankouiblog-vopvxistgr.cn-zhangjiakou.sae.run/tags/xx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My 1st post</title>
+      <link>https://cn-zhankouiblog-vopvxistgr.cn-zhangjiakou.sae.run/posts/11/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <guid>https://cn-zhankouiblog-vopvxistgr.cn-zhangjiakou.sae.run/posts/11/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>My 1st post</title>
+      <link>https://cn-zhankouiblog-vopvxistgr.cn-zhangjiakou.sae.run/posts/22/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <guid>https://cn-zhankouiblog-vopvxistgr.cn-zhangjiakou.sae.run/posts/22/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>
